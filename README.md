@@ -1,0 +1,2 @@
+## here I want to be able to control what files are shown if a user does not specify the file name (e.g. *.html *.php)
+## I think I can also get it to display the files in the directory reading here http://stackoverflow.com/questions/10002439/make-index-html-default-but-allow-index-php-to-be-visited-if-typed-in
